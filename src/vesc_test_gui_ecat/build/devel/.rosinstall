@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/drcl-yunjin/Documents/ros_ws/ecat_ws/src/vesc_test_gui_ecat/build/devel/setup.sh

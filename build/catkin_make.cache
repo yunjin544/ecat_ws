@@ -1,0 +1,2 @@
+Robot_EtherCAT_Platform:vesc_test_gui_ecat
+-DCATKIN_DEVEL_PREFIX=/home/drcl-yunjin/Documents/ros_ws/ecat_ws/devel -DCMAKE_INSTALL_PREFIX=/home/drcl-yunjin/Documents/ros_ws/ecat_ws/install -G Unix Makefiles

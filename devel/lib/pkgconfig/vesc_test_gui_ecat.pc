@@ -1,0 +1,8 @@
+prefix=/home/drcl-yunjin/Documents/ros_ws/ecat_ws/devel
+
+Name: vesc_test_gui_ecat
+Description: Description of vesc_test_gui_ecat
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
